@@ -4,26 +4,11 @@ body {
     background-color: #f4f4f4;
 }
 .banner {
-    background-image: url("https://images.unsplash.com/photo-1498050108023-c5249f4df085");
     background-size: cover;
-    color: white;
-    padding: 60px;
-    text-align: center;
-}
-.nav {
     background-color: #222;
-    padding: 15px;
+    color: rgb(255, 255, 255);
+    padding: 6px;
     text-align: center;
-}
-.nav a {
-    color: white;
-    text-decoration: none;
-    margin: 0 15px;
-    padding: 8px 12px;
-}
-.nav a:hover {
-    background-color: orange;
-    border-radius: 5px;
 }
 .projects {
     padding: 40px;
